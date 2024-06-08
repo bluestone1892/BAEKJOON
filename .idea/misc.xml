@@ -3,5 +3,6 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (BAEKJOON-25372(성택이의 은밀한 비밀번호))" />
   </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (BAEKJOON-25372(성택이의 은밀한 비밀번호))" project-jdk-type="Python SDK" />
 </project>
