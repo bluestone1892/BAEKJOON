@@ -11,3 +11,4 @@ for, if, scanf
 ### Python
 for, if, input, len
 
+## [문제](https://www.acmicpc.net/problem/25372)
