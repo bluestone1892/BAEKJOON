@@ -4,5 +4,4 @@
 ## 목적
 python 특수문자 출력 연습, 사칙연산
 ## 링크
-[입출력과 사칙연산](https://www.acmicpc.net/step/1)
 https://www.acmicpc.net/step/1
