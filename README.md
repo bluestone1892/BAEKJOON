@@ -1,4 +1,4 @@
-# BAEKJOON-성택이의 은밀한 비밀번호
+# 성택이의 은밀한 비밀번호
 ## 언어
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
