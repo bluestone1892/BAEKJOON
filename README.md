@@ -9,5 +9,5 @@
 ### C
 for, if, scanf
 ### Python
-for, if, input
+for, if, input, len
 
