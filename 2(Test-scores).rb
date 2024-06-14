@@ -8,5 +8,5 @@ elsif N >= 70
 elsif N >= 60
   puts "D"
 else
-  puts "FF"
+  puts "F"
 end
