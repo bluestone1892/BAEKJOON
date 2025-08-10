@@ -7,6 +7,6 @@
 ## 목적
 
 반복문,리스트 연습
-code golf
+,code golf
 
 ## [문제](https://www.acmicpc.net/problem/10826)
