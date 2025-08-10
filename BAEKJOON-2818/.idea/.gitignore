@@ -1,0 +1,20 @@
+# Ruby
+*.gem
+*.rbc
+/.bundle
+/vendor/bundle
+/log
+/tmp
+*.log
+*.tmp
+*.swp
+.byebug_history
+
+# RubyMine
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ignore DS_Store (맥)
+.DS_Store
